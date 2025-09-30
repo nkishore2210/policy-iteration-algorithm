@@ -81,6 +81,4 @@ def policy_iteration(P,gamma=1.0,theta=1e-10):
 <img width="746" height="60" alt="image" src="https://github.com/user-attachments/assets/1cbe7667-4678-4554-be1b-706b0c6f6e81" />
 
 ## RESULT:
-Thus the program to iterate the policy evaluation and policy improvement is executed successfully.
-## RESULT:
 Therefore, policy iteration algorithm to find optimal policy by iteratively maximizing the value function is successfully implemented.
